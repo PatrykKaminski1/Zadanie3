@@ -1,0 +1,5 @@
+Marka:Mazda
+Silnik
+
+Rok produkcji:1999
+Kolor:Zielony
